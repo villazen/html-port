@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    color:white;
+    background-color: green;
+}
+h2{
+    text-align: center;
+    color: white;
+    background-color: green;
+}
+ img{
+    width: auto;
+    background-position: 27px;
+    height: 240px;
+} 
+body{
+
+    background-color:black ;
+
+}
+h3{
+    text-align: center;
+}
+p{
+    color: aliceblue;
+}
+.red-text{
+    color: aqua;
+}
